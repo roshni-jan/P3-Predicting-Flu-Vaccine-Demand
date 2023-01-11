@@ -199,8 +199,6 @@ See the full analysis in the [Jupyter Notebook](./P3-Predicting-Flu-Vaccine-Dema
 * [Email](mailto:roshnij618@gmail.com) <br>
 * [LinkedIn](https://www.linkedin.com/in/roshni-janakiraman/)
 
-![stopflu](/images/7-stoptheflu.jpeg)
-
 ## Repository Structure
 
 ```
@@ -223,7 +221,6 @@ See the full analysis in the [Jupyter Notebook](./P3-Predicting-Flu-Vaccine-Dema
 ├── presentation.pdf
 └── README.md
 ```
-
-![stoptheflu](stoptheflu.jpeg)
-
+---
+![stopflu](/images/7-stoptheflu.jpeg)
 
