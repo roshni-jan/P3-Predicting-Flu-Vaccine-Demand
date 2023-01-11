@@ -2,7 +2,7 @@
 
 Authors: [Roshni Janakiraman](mailto:roshnij618@gmail.com)
 
-![needle](/images/flushot.jpg)  
+![needle](/images/1-flushot.jpg)  
 
 # Overview
 As one of the leading vaccine distributors in the U.S., AmerisourceBergen relies on accurate predictions of flu vaccine demand. I sought to create a machine learning model to predict seasonal flu vaccine recipients.
